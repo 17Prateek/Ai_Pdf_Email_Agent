@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pymupdf
+python-dotenv
+python-multipart
+
+sendgrid
+
+crewai
+langchain
+langchain-openai
+
+openai
+tiktoken
